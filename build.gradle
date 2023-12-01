@@ -1,0 +1,5 @@
+// Spring Boot Starter Data JPA
+implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+
+// H2 Database (o la base de datos que estás utilizando)
+runtimeOnly 'com.h2database:h2'
